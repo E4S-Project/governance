@@ -14,6 +14,8 @@
 
 ### Current Roster
 
+- Tammy Dahlgren -- GitHub handle: [tldahlgren] (https://github.com/tldahlgren)
+- Richard Gerber -- GitHub handle: [ragerber] (https://github.com/ragerber)
 - Michael Heroux -- GitHub handle: [maherou](https://github.com/maherou)
 - Luke Peyralans -- GitHub handle: [eugeneswalker](https://github.com/eugeneswalker)
 - Sameer Shende -- GitHub handle: [sameershende](https://github.com/sameershende)
