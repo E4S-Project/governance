@@ -25,9 +25,9 @@
 
 ### Role
 
-- Lead subprojects in E4S
-- Control who has merge rights for their respective repository
-- Determine *Team Members* of their respecitve repository
+- Maintain 1 or more E4S repositories
+- Control who has merge rights for their respective repository/repositories
+- Determine *Team Members* of their respecitve repository/repositories
 - Organize release process for their subproject
 
 # Team Members
